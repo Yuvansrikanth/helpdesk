@@ -21,7 +21,7 @@ A simple full-stack Helpdesk system built using React for the frontend and Node.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/helpdesk.git
+git clone https://github.com/Yuvansrikanth/helpdesk.git
 ```
 ### 2. Install All Dependencies
 
